@@ -1,4 +1,4 @@
-# {{ project_name }}
+# basic_django_template
 
 ## Usage
 ```bash
